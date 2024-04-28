@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|d:\\\u0111\u1ED3 \u00E1n\\myproject_be\\color_media.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|solutionrelative:controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|d:\\\u0111\u1ED3 \u00E1n\\myproject_be\\color_media.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|d:\\\u0111\u1ED3 \u00E1n\\myproject_be\\color_media.api\\controllers\\broadcastingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|solutionrelative:controllers\\broadcastingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|d:\\\u0111\u1ED3 \u00E1n\\myproject_be\\color_media.api\\controllers\\estimatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|solutionrelative:controllers\\estimatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|d:\\\u0111\u1ED3 \u00E1n\\myproject_be\\color_media.api\\controllers\\movieapprovalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|solutionrelative:controllers\\movieapprovalscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|d:\\\u0111\u1ED3 \u00E1n\\myproject_be\\color_media.api\\controllers\\preproductionprogresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|solutionrelative:controllers\\preproductionprogresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FDCDD9-590E-4FC9-BD99-456ACB7113F3}|..\\Color_Media.Service\\Color_Media.Service.csproj|d:\\\u0111\u1ED3 \u00E1n\\myproject_be\\color_media.service\\implements\\preproductionprogressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4EA49F-D5C3-4020-A51B-097ECE34FC6A}|..\\Color_Media.Models\\Color_Media.Models.csproj|d:\\\u0111\u1ED3 \u00E1n\\myproject_be\\color_media.models\\preproductionprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FDCDD9-590E-4FC9-BD99-456ACB7113F3}|..\\Color_Media.Service\\Color_Media.Service.csproj|d:\\\u0111\u1ED3 \u00E1n\\myproject_be\\color_media.service\\ipreproductionprogressservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00FDCDD9-590E-4FC9-BD99-456ACB7113F3}|..\\Color_Media.Service\\Color_Media.Service.csproj|d:\\\u0111\u1ED3 \u00E1n\\myproject_be\\color_media.service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|d:\\\u0111\u1ED3 \u00E1n\\myproject_be\\color_media.api\\controllers\\postproductionprogresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|solutionrelative:controllers\\postproductionprogresscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|d:\\\u0111\u1ED3 \u00E1n\\myproject_be\\color_media.api\\controllers\\movieapprovaldetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|solutionrelative:controllers\\movieapprovaldetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|d:\\\u0111\u1ED3 \u00E1n\\myproject_be\\color_media.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|d:\\\u0111\u1ED3 \u00E1n\\myproject_be\\color_media.api\\controllers\\commoncategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|solutionrelative:controllers\\commoncategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|d:\\\u0111\u1ED3 \u00E1n\\myproject_be\\color_media.api\\controllers\\approvedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|solutionrelative:controllers\\approvedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|d:\\\u0111\u1ED3 \u00E1n\\myproject_be\\color_media.api\\controllers\\broadcastingdocumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|solutionrelative:controllers\\broadcastingdocumentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|d:\\\u0111\u1ED3 \u00E1n\\myproject_be\\color_media.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|d:\\\u0111\u1ED3 \u00E1n\\myproject_be\\color_media.api\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557C5190-AF78-4F47-A21A-2F2FF6A07440}|Color_Media.API.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1ED3 \u00E1n\\Color_Media.Service\\Implements\\BroadCastingService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1ED3 \u00E1n\\Color_Media.Models\\Video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1ED3 \u00E1n\\Color_Media.Models\\Color_Media.Models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1ED3 \u00E1n\\Color_Media.Models\\thnd_qlsx_phimContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1ED3 \u00E1n\\Color_Media.Service\\BaseService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1ED3 \u00E1n\\Color_Media.Models\\PostproductionPlaning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0110\u1ED3 \u00E1n\\color_media\\Color_Media.Service\\IPostProductionPlaningProgressService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\Color_Media.Service\\BaseService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Color_Media.Service\\BaseService.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\Color_Media.Service\\BaseService.cs",
+              "RelativeToolTip": "..\\..\\Color_Media.Service\\BaseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:27:09.223Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PreproductionProgressService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.Service\\Implements\\PreproductionProgressService.cs",
+              "RelativeDocumentMoniker": "..\\Color_Media.Service\\Implements\\PreproductionProgressService.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.Service\\Implements\\PreproductionProgressService.cs",
+              "RelativeToolTip": "..\\Color_Media.Service\\Implements\\PreproductionProgressService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T00:41:06.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PreproductionProgress.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.Models\\PreproductionProgress.cs",
+              "RelativeDocumentMoniker": "..\\Color_Media.Models\\PreproductionProgress.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.Models\\PreproductionProgress.cs",
+              "RelativeToolTip": "..\\Color_Media.Models\\PreproductionProgress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T00:40:56.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IPreproductionProgressService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.Service\\IPreproductionProgressService.cs",
+              "RelativeDocumentMoniker": "..\\Color_Media.Service\\IPreproductionProgressService.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.Service\\IPreproductionProgressService.cs",
+              "RelativeToolTip": "..\\Color_Media.Service\\IPreproductionProgressService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T00:40:35.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.Service\\IService.cs",
+              "RelativeDocumentMoniker": "..\\Color_Media.Service\\IService.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.Service\\IService.cs",
+              "RelativeToolTip": "..\\Color_Media.Service\\IService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T00:39:54.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PreproductionProgressController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\PreproductionProgressController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PreproductionProgressController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\PreproductionProgressController.cs",
+              "RelativeToolTip": "Controllers\\PreproductionProgressController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T00:37:43.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IPostProductionPlaningProgressService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\color_media\\Color_Media.Service\\IPostProductionPlaningProgressService.cs",
+              "RelativeDocumentMoniker": "..\\..\\color_media\\Color_Media.Service\\IPostProductionPlaningProgressService.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\color_media\\Color_Media.Service\\IPostProductionPlaningProgressService.cs",
+              "RelativeToolTip": "..\\..\\color_media\\Color_Media.Service\\IPostProductionPlaningProgressService.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2019-04-26T11:40:03.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2019-04-26T11:39:44.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PostproductionProgressController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\PostproductionProgressController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PostproductionProgressController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\PostproductionProgressController.cs",
+              "RelativeToolTip": "Controllers\\PostproductionProgressController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:27:36.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieApprovalsController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\MovieApprovalsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieApprovalsController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\MovieApprovalsController.cs",
+              "RelativeToolTip": "Controllers\\MovieApprovalsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:20:25.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MovieApprovalDetailController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\MovieApprovalDetailController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieApprovalDetailController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\MovieApprovalDetailController.cs",
+              "RelativeToolTip": "Controllers\\MovieApprovalDetailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:18:45.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstimateController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\EstimateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EstimateController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\EstimateController.cs",
+              "RelativeToolTip": "Controllers\\EstimateController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:16:22.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommoncategoryController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\CommoncategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CommoncategoryController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\CommoncategoryController.cs",
+              "RelativeToolTip": "Controllers\\CommoncategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T10:07:21.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApprovedController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\ApprovedController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ApprovedController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\ApprovedController.cs",
+              "RelativeToolTip": "Controllers\\ApprovedController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:58:25.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BroadCastingDocumentController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\BroadCastingDocumentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BroadCastingDocumentController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\BroadCastingDocumentController.cs",
+              "RelativeToolTip": "Controllers\\BroadCastingDocumentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T15:06:59.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BroadCastingService.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\Color_Media.Service\\Implements\\BroadCastingService.cs",
+              "RelativeDocumentMoniker": "..\\..\\Color_Media.Service\\Implements\\BroadCastingService.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\Color_Media.Service\\Implements\\BroadCastingService.cs",
+              "RelativeToolTip": "..\\..\\Color_Media.Service\\Implements\\BroadCastingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:42:00.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Video.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\Color_Media.Models\\Video.cs",
+              "RelativeDocumentMoniker": "..\\..\\Color_Media.Models\\Video.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\Color_Media.Models\\Video.cs",
+              "RelativeToolTip": "..\\..\\Color_Media.Models\\Video.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:41:30.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BroadCastingsController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\BroadCastingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BroadCastingsController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\BroadCastingsController.cs",
+              "RelativeToolTip": "Controllers\\BroadCastingsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:40:25.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Color_Media.Models.csproj",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\Color_Media.Models\\Color_Media.Models.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Color_Media.Models\\Color_Media.Models.csproj",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\Color_Media.Models\\Color_Media.Models.csproj",
+              "RelativeToolTip": "..\\..\\Color_Media.Models\\Color_Media.Models.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-24T14:30:14.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "thnd_qlsx_phimContext.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\Color_Media.Models\\thnd_qlsx_phimContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\Color_Media.Models\\thnd_qlsx_phimContext.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\Color_Media.Models\\thnd_qlsx_phimContext.cs",
+              "RelativeToolTip": "..\\..\\Color_Media.Models\\thnd_qlsx_phimContext.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwDsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:29:59.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-24T14:29:37.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAuwGEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:29:10.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:29:09.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BaseController.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\MyProject_BE\\Color_Media.API\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAASwBQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:27:30.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PostproductionPlaning.cs",
+              "DocumentMoniker": "D:\\\u0110\u1ED3 \u00E1n\\Color_Media.Models\\PostproductionPlaning.cs",
+              "RelativeDocumentMoniker": "..\\..\\Color_Media.Models\\PostproductionPlaning.cs",
+              "ToolTip": "D:\\\u0110\u1ED3 \u00E1n\\Color_Media.Models\\PostproductionPlaning.cs",
+              "RelativeToolTip": "..\\..\\Color_Media.Models\\PostproductionPlaning.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T14:26:55.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

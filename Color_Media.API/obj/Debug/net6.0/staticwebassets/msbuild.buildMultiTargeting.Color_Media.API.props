@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Color_Media.API.props" />
+</Project>
