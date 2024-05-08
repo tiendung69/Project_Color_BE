@@ -94,38 +94,4 @@ app.MapControllers();
 app.Run();
 IEdmModel GetEdmModel()
 {
-    var odataBuilder = new ODataConventionModelBuilder();
-    odataBuilder.EntitySet<Broadcasting>("BroadCastings").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<Broadcastingdocument>("BroadCastingDocument").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<Estimate>("Estimate").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<VCommoncategory>("VCommoncategories").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<Commoncategory>("Commoncategories").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<Audit>("Audits").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<Approved>("Approveds").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<Mappingfield>("Mappingfields").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<Mappingtable>("Mappingtables").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<Movieapproval>("Movieapprovals").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<MovieapprovalDetail>("MovieapprovalDetails").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<PostproductionPlaning>("PostproductionPlanings").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<PostproductionProgress>("PostproductionProgress").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<PostproductionprogressMember>("PostproductionprogressMembers").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<PreproductionExpense>("PreproductionExpenses").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<PreproductionMember>("PreproductionMembers").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<PreproductionPlaning>("PreproductionPlanings").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<PreproductionProgress>("PreproductionProgress").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<PreproductionprogressMember>("PreproductionprogressMembers").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<PreproductionSegment>("PreproductionSegments").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<PreproductionsegmentMember>("PreproductionsegmentMembers").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<Team>("Teams").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<TeamMember>("TeamMembers").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<Topic>("Topics").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<TopicDocument>("TopicDocuments").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<TopicMember>("TopicMembers").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<User>("Users").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<UserRight>("UserRights").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<Video>("Videos").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<UserRole>("UserRoles").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<RoleRight>("RoleRights").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    odataBuilder.EntitySet<ElasticField>("ElasticFields").EntityType.HasKey(x => x.Id).Expand(5).Count().Page(100, 100);
-    return odataBuilder.GetEdmModel();
 }

@@ -11417,11 +11417,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Đồ án\\MyProject_BE\\Color_Media.API\\Color_Media.API.csproj",
+      "projectUniqueName": "D:\\Đồ án\\MyProject\\Project_Color_BE\\Color_Media.API\\Color_Media.API.csproj",
       "projectName": "Color_Media.API",
-      "projectPath": "D:\\Đồ án\\MyProject_BE\\Color_Media.API\\Color_Media.API.csproj",
+      "projectPath": "D:\\Đồ án\\MyProject\\Project_Color_BE\\Color_Media.API\\Color_Media.API.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Đồ án\\MyProject_BE\\Color_Media.API\\obj\\",
+      "outputPath": "D:\\Đồ án\\MyProject\\Project_Color_BE\\Color_Media.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -11443,11 +11443,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Đồ án\\MyProject_BE\\Color_Media.Models\\Color_Media.Models.csproj": {
-              "projectPath": "D:\\Đồ án\\MyProject_BE\\Color_Media.Models\\Color_Media.Models.csproj"
+            "D:\\Đồ án\\MyProject\\Project_Color_BE\\Color_Media.Models\\Color_Media.Models.csproj": {
+              "projectPath": "D:\\Đồ án\\MyProject\\Project_Color_BE\\Color_Media.Models\\Color_Media.Models.csproj"
             },
-            "D:\\Đồ án\\MyProject_BE\\Color_Media.Service\\Color_Media.Service.csproj": {
-              "projectPath": "D:\\Đồ án\\MyProject_BE\\Color_Media.Service\\Color_Media.Service.csproj"
+            "D:\\Đồ án\\MyProject\\Project_Color_BE\\Color_Media.Service\\Color_Media.Service.csproj": {
+              "projectPath": "D:\\Đồ án\\MyProject\\Project_Color_BE\\Color_Media.Service\\Color_Media.Service.csproj"
             }
           }
         }

@@ -16,4 +16,9 @@
     <ProjectReference Include="..\Color_Media.Service\Color_Media.Service.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
 </Project>
