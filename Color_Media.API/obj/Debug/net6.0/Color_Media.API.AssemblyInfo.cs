@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Color_Media.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b195b8100c8c711c925e48f8ebf482385314cc6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e53f28d8e67a09d3c0b5b4d13b0bbbece77cac0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Color_Media.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Color_Media.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
